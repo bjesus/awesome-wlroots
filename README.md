@@ -41,8 +41,9 @@ wlroots supports gamma setting through `wlr-gamma-control-unstable-v1`.
 
 ## Clipboard Managers
 
-* [wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
+* [clapboard](https://github.com/bjesus/clapboard) - A clipboard manager for Wayland built with Rust that uses dmenu-like systems
 * [clipman](https://github.com/yory8/clipman) - A simple clipboard manager for Wayland
+* [wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 
 ## Compositors
 
