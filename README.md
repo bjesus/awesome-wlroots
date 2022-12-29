@@ -61,6 +61,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 
 ## Clipboard Managers
 
+* [clapboard](https://github.com/bjesus/clapboard) - A clipboard manager built in Rust for dmenu-like systems
 * [clipman](https://github.com/yory8/clipman) - A simple clipboard manager for Wayland
 * [copyq](https://hluk.github.io/CopyQ/) - CopyQ is an advanced clipboard manager with editing and scripting features.
 * [wayclip](https://github.com/noocsharp/wayclip) -  Wayland clipboard utility 
